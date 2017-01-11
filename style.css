@@ -28,5 +28,30 @@ button {
 }
 
 .product-price {
-  margin: 2px 5px;
+  margin: 2px 5px 10px 5px;
+}
+
+/* Exercise3 */
+
+.exercise3 {
+  clear: both;
+}
+
+.product-info {
+  width: 450px;
+  background-color: #67C67E;
+}
+.product-image {
+  float: left;
+}
+.product-details {
+  float: left;
+  color: #FFFFFF;
+}
+
+.product-description {
+  padding: 10px;
+  background-color: #7DADEA;
+  color: #FFFFFF;
+  clear: both;
 }
