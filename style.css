@@ -8,3 +8,25 @@ button {
 .content {
   clear: both; /* applied clear to move text below buttons */
 }
+
+/* Exercise2 */
+
+.products {
+
+}
+
+.product {
+  float: left;
+}
+
+.product-image {
+  margin: 5px;
+}
+
+.product-name {
+  margin: 0 5px;
+}
+
+.product-price {
+  margin: 2px 5px;
+}
