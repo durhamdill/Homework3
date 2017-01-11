@@ -1,0 +1,10 @@
+/* Exercise1 */
+
+button {
+  float: left;
+  margin: 5px;
+}
+
+.content {
+  clear: both; /* applied clear to move text below buttons */
+}
